@@ -1,0 +1,1 @@
+{"version":3,"sources":["_custom-post-type.scss","settings/_variables.scss"],"names":[],"mappings":"AAEA,2BAEI,wBCHU,CAAA","file":"style.css","sourcesContent":["\n\n.custom-post-type {\n  .sidebar {\n    background-color: $blue;\n  }\n}","\n$blue: #43decc;"]}
